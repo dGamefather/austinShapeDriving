@@ -18,7 +18,9 @@ public class AustinShapeController
 		{
 			deathBot.drawCircle(1, 1);
 			deathBot.drawSquare(4, 1);
-			deathBot.drawTriangle(3,1);
+			deathBot.drawTriangle(3, 1);
+			deathBot.drawHexagon(6, 1);
+			deathBot.drawOctagon(8, 1);
 		}
 	}
 }
